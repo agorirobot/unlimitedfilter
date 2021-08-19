@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = """<b>Hey.. {},
+    START_MSG = """<b>Hey {},
 
 <code>I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)</code>
@@ -52,12 +52,12 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = ""<b> My Name : jun ji hyun</b>
+    ABOUT_MSG = """😍<b>My Name : Jun ji huyn</b>
 
-<b>My Boss:</b> @personal_privebot1   
+😍<b>Creater :</b> @personal_privetbot1  
 
-<b>Language :</b> <code>Python3</code>
+💙<b>Language :</b> <code>Python3</code>
 
-<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+😘<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
