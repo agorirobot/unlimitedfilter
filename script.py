@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = ""<b>My Name : jun ji hyun</b>
+    ABOUT_MSG = ""<b> My Name : jun ji hyun</b>
 
 <b>My Boss:</b> @personal_privebot1   
 
